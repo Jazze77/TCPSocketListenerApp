@@ -1,1 +1,1 @@
-C# TCPSocketListenerApp Consule application
+C# TCPSocketListenerApp Console application
